@@ -13,7 +13,7 @@ export default async function Navbar() {
     <div className="flex justify-between px-6 py-2">
       <div>
         <Link href="/">
-          <Image src="./logo.svg" alt="" priority width={170} height={41} />
+          <Image src="/LGS.png" alt="" priority width={170} height={41} />
         </Link>
       </div>
 
